@@ -3,6 +3,9 @@ This folder contains the notebooks and scripts to perform the inspection of the 
 
 Notebooks:
 - 2_1_Latent_space_interpretability_integration.ipynb: Imports the annodated flow cytometry, mass cytometry and CITE-seq data from Fig 1 and the models trained for the PPCs. Benchmarking of batch correction performance is performed using the two technical replicates from Nunez et al.
-- 2_2_Cycombine_batch_correction: R notebook to perform the batch integration of the Nunez et al. data using cyCombine.
-- 2_3_FastMNN_batch_correction: R notebook to perform the batch integration of the Nunez et al. data using FastMNN.
+- 2_2_Cycombine_batch_correction.ipynb: R notebook to perform the batch integration of the Nunez et al. data using cyCombine.
+- 2_3_FastMNN_batch_correction.ipynb: R notebook to perform the batch integration of the Nunez et al. data using FastMNN.
 
+Scripts:
+- 2_1_Nunez_Runtime_FastMNN_Cycombine.R: Code to perform the runtime analysis of the R-based methods (FastMNN, cyCombine).
+- 2_2_Nunez_Runtime_CytoVI_Harmony.py: Code to perform the runtime analysis of the python-based methods (CytoVI, Harmony).
