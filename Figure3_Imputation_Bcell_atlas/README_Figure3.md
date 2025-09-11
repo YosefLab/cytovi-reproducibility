@@ -10,5 +10,5 @@ Notebooks:
 - 3_6_Trajectory_inference_Bcells.ipynb: Trajectory inference of the integrated B cell maturation atlas using CellRank.
 
 Scripts:
--3_1_Masking_model_training_imputation.py: Script used to mask markers in the semi-synthetic batches, train CytoVI models and impute missing markers.
-
+- 3_1_Masking_model_training_imputation.py: Script used to mask markers in the semi-synthetic batches, train CytoVI models and impute missing markers.
+- 3_2_Cross_study_marker_ablation.py: Script used to iteratively mask one of the backbone markers in the cross-study integration and assess the resulting change in imputation performance.
