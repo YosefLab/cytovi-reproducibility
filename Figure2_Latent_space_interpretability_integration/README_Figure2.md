@@ -5,6 +5,7 @@ Notebooks:
 - 2_1_Latent_space_interpretability_integration.ipynb: Imports the annodated flow cytometry, mass cytometry and CITE-seq data from Fig 1 and the models trained for the PPCs. Benchmarking of batch correction performance is performed using the two technical replicates from Nunez et al. This notebook also contains the evaluation of feature dropout and runtime analysis.
 - 2_2_Cycombine_batch_correction.ipynb: R notebook to perform the batch integration of the Nunez et al. data using cyCombine.
 - 2_3_FastMNN_batch_correction.ipynb: R notebook to perform the batch integration of the Nunez et al. data using FastMNN.
+- 2_4_Evaluate_MARIO.ipynb: Python notebook to compare CytoVI to the cell matching algorithm MARIO.
 
 Scripts:
 - 2_1_Nunez_batch_correction_CytoVI.py: Code to train the CytoVI models for batch correction of the Nunez et al. dataset.
