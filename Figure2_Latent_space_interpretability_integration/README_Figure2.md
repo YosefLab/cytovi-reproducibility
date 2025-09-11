@@ -7,5 +7,6 @@ Notebooks:
 - 2_3_FastMNN_batch_correction.ipynb: R notebook to perform the batch integration of the Nunez et al. data using FastMNN.
 
 Scripts:
-- 2_1_Nunez_Runtime_FastMNN_Cycombine.R: Code to perform the runtime analysis of the R-based methods (FastMNN, cyCombine).
+- 2_1_Nunez_batch_correction_CytoVI.py: Code to train the CytoVI models for batch correction of the Nunez et al. dataset.
 - 2_2_Nunez_Runtime_CytoVI_Harmony.py: Code to perform the runtime analysis of the python-based methods (CytoVI, Harmony).
+- 2_3_Nunez_Runtime_FastMNN_Cycombine.R: Code to perform the runtime analysis of the R-based methods (FastMNN, cyCombine).
