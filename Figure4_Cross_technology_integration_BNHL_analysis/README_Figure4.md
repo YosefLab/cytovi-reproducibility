@@ -1,5 +1,5 @@
 # Figure 4: Cross-technology integration and analysis of the BNHL cohort
-This folder contains the notebooks and scripts to integrate mass cytometry and CITE-seq data from Levine et al. and Stuart et al. and benhmark CytoVi in relation to competitor methods. Additionally, it contains code to integrate flow and mass cytometry data and impute scatter features in the mass cytometry dataset. It also contains code to reproduce the analysis of the BNHL cohort from Roider et al. The folder is structured as following:
+This folder contains the notebooks and scripts to integrate mass cytometry and CITE-seq data from Levine et al. and Stuart et al. and benchmark CytoVI in relation to competitor methods. Additionally, it contains code to integrate flow and mass cytometry data and impute scatter features in the mass cytometry dataset. It also contains code to reproduce the analysis of the BNHL cohort from Roider et al. The folder is structured as following:
 
 Notebooks:
 - 4_1_Cross_technology_integration_benchmarking.ipynb: Notebook to reproduce the benchmarking of the cross-technology integration between Stuart et al. and Levine et al.
