@@ -20,4 +20,7 @@ Scripts:
 - 4_8_BNHL_flow_CITEseq_model_training.py: Script to train the flow-CITEseq model of the BNHL cohort and impute transcript expression in flow cytometry data.
 - 4_9_Crossint_Levine_Stuart_CytoVI_Harmony_MARIO_subset.py: Code to run the CytoVi and Harmony cross-technology integration for the subset of cells MARIO can match.
 - 4_10_Crossint_Levine_Stuart_FastMNN_Cycombine_MARIO_subset.R: Code to perform the FastMNN and cyCombine cross-technology integration for the subset of cells MARIO can match.
+- 4_11_Crossint_Levine_Stuart_Runtime_CytoVI_Harmony.py: Code for runtime analysis of CytoVI and Harmony.
+- 4_12_Crossint_Levine_Stuart_Runtime_FastMNN_Cycombine.R: Code for runtime analysis of FastMNN and cyCombine.
+- 4_13_Crossint_Levine_Stuart_Runtime_MARIO.py: Code for runtime analysis of MARIO.
 
